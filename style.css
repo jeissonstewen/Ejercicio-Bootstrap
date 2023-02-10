@@ -11,3 +11,6 @@ background: linear-gradient(90deg, rgba(75,186,228,1) 0%, rgba(225,207,245,0.653
 .container{
     border: solid 3px dodgerblue;
 }
+.table tr{
+    text-align: center;
+}
